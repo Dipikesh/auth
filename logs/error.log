@@ -1,0 +1,1463 @@
+[31m21/09/2021 16:50:08 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m21/09/2021 18:43:51 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m21/09/2021 18:53:43 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m21/09/2021 19:08:16 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m22/09/2021 00:49:03 - [error] : USER DATA SAVING  userSchema.save is not a function[39m
+[31m22/09/2021 00:49:03 - [error] : unhandledRejection[39m
+[31m22/09/2021 00:49:44 - [error] : USER DATA SAVING  userSchema.save is not a function[39m
+[31m22/09/2021 00:49:44 - [error] : unhandledRejection createError is not defined[39m
+[31m22/09/2021 00:50:05 - [error] : USER DATA SAVING  userSchema.save is not a function[39m
+[31m22/09/2021 00:50:05 - [error] : unhandledRejection[39m
+[31m22/09/2021 00:50:53 - [error] : USER DATA SAVING  userSchema.save is not a function[39m
+[31m22/09/2021 00:50:53 - [error] : unhandledRejection createError is not defined[39m
+[31m22/09/2021 00:51:40 - [error] : USER DATA SAVING  userSchema.save is not a function[39m
+[31m22/09/2021 00:51:40 - [error] : unhandledRejection createError is not defined[39m
+[31m22/09/2021 00:54:17 - [error] : USER DATA SAVING  userSchema.save is not a function[39m
+[31m22/09/2021 00:54:17 - [error] : unhandledRejection createError is not defined[39m
+[31m22/09/2021 00:59:21 - [error] : USER DATA SAVING  userSchema.save is not a constructor[39m
+[31m22/09/2021 00:59:21 - [error] : UnhandledRejection createError is not defined[39m
+[31m22/09/2021 01:15:47 - [error] : create Controller  Unexpected token o in JSON at position 1[39m
+[31m22/09/2021 01:23:32 - [error] : UnhandledRejection mailerService.sendMail is not a function[39m
+[31m22/09/2021 01:24:59 - [error] : UnhandledRejection Cannot read property 'sendMail' of undefined[39m
+[31m22/09/2021 01:26:59 - [error] : UnhandledRejection Cannot read property 'sendMail' of undefined[39m
+[31m22/09/2021 01:29:45 - [error] : UnhandledRejection Cannot read property 'sendMail' of undefined[39m
+[31m22/09/2021 01:31:20 - [error] : UnhandledRejection[39m
+[31m22/09/2021 01:32:10 - [error] : UnhandledRejection Cannot read property 'sendMail' of undefined[39m
+[31m22/09/2021 01:32:20 - [error] : UnhandledRejection Cannot read property 'sendMail' of undefined[39m
+[31m23/09/2021 13:21:41 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m23/09/2021 13:40:24 - [error] : Mailer  Connection timeout[39m
+[31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
+[31m23/09/2021 21:07:54 - [error] : Mailer  No recipients defined[39m
+[31m24/09/2021 09:53:30 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m24/09/2021 09:55:54 - [error] : Mailer  No recipients defined[39m
+[31m24/09/2021 14:30:32 - [error] : User Validation Error ValidationError: "name" length must be at least 3 characters long[39m
+[31m24/09/2021 14:30:47 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 14:34:18 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 15:07:18 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T09:37:17.964Z"[39m
+[31m24/09/2021 15:16:39 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T09:46:39.000Z"[39m
+[31m24/09/2021 15:24:38 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T09:54:38.855Z"[39m
+[31m24/09/2021 15:31:25 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T10:01:25.000Z"[39m
+[31m24/09/2021 15:33:13 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be larger than or equal to "2021-09-24T10:03:13.000Z"[39m
+[31m24/09/2021 15:34:04 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 16:57:47 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T13:57:47.622Z"[39m
+[31m24/09/2021 16:58:35 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T15:28:35.263Z"[39m
+[31m24/09/2021 16:59:13 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T16:29:12.948Z"[39m
+[31m24/09/2021 16:59:28 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T16:59:28.897Z"[39m
+[31m24/09/2021 16:59:56 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T18:49:56.727Z"[39m
+[31m24/09/2021 17:00:39 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T16:00:39.188Z"[39m
+[31m24/09/2021 17:03:46 - [error] : User Validation Error ValidationError: "email" must be a valid email[39m
+[31m24/09/2021 17:03:53 - [error] : User Validation Error ValidationError: "email" must be a valid email. "date" must be greater than "2021-09-24T11:33:53.347Z"[39m
+[31m24/09/2021 17:04:33 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:34:33.462Z"[39m
+[31m24/09/2021 17:04:42 - [error] : User Validation Error ValidationError: "date" must be in ISO 8601 date format[39m
+[31m24/09/2021 17:07:45 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:37:45.464Z"[39m
+[31m24/09/2021 17:13:08 - [error] : USER DATA SAVING  userScheam is not defined[39m
+[31m24/09/2021 17:15:08 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:50:08.107Z"[39m
+[31m24/09/2021 17:28:33 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T11:58:32.973Z"[39m
+[31m24/09/2021 17:28:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 17:32:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 17:34:39 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:40:14 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T13:10:14.669Z"[39m
+[31m24/09/2021 18:40:29 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:41:30 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:42:57 - [error] : USER DATA SAVING  Can't use $ls with Date.[39m
+[31m24/09/2021 18:42:57 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:44:46 - [error] : USER DATA SAVING  Can't use $lse with Date.[39m
+[31m24/09/2021 18:44:46 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:45:24 - [error] : USER DATA SAVING  isDateSam is not defined[39m
+[31m24/09/2021 18:45:24 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:45:42 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:49:46 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:49:46 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:52:57 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:52:57 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:53:17 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:53:17 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:55:34 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:55:34 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:55:49 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:55:49 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 18:55:51 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 18:55:51 - [error] : create Controller  Internal Server Error[39m
+[31m24/09/2021 19:05:38 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:05:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:06:22 - [error] : USER DATA SAVING  isDateSame is not defined[39m
+[31m24/09/2021 19:08:15 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:15 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:25 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:26 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:26 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : USER DATA SAVING  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:08:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:29:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:29:22 - [error] : create Controller  resolve is not defined[39m
+[31m24/09/2021 19:38:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 19:39:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 20:02:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 20:22:08 - [error] : create Controller  ISODate is not defined[39m
+[31m24/09/2021 20:23:50 - [error] : Can not Connect MongooseServerSelectionError: connection timed out[39m
+[31m24/09/2021 21:22:01 - [error] : create Controller  Cast to date failed for value "ISODate(2021-09-24T21:25:45)" (type string) at path "date" for model "User"[39m
+[31m24/09/2021 21:23:27 - [error] : create Controller  ISODate is not defined[39m
+[31m24/09/2021 21:26:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:34:18 - [error] : create Controller  originalDate.setDate is not a function[39m
+[31m24/09/2021 21:35:32 - [error] : create Controller  originalDate.setDate is not a function[39m
+[31m24/09/2021 21:36:13 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T16:06:12.968Z"[39m
+[31m24/09/2021 21:36:31 - [error] : create Controller  Cast to date failed for value "Invalid Date" (type Date) at path "date" for model "User"[39m
+[31m24/09/2021 21:37:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:38:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:39:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:41:12 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:41:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:42:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:50:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:50:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m24/09/2021 21:53:32 - [error] : create Controller  originalDate is not defined[39m
+[31m24/09/2021 22:07:45 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m24/09/2021 22:07:45 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m24/09/2021 22:27:45 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m25/09/2021 01:45:10 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-24T20:15:10.171Z"[39m
+[31m25/09/2021 01:45:21 - [error] : create Controller  resolve is not defined[39m
+[31m25/09/2021 01:45:42 - [error] : create Controller  Cast to Number failed for value "2416e81b" (type string) at path "jobId" for model "User"[39m
+[31m25/09/2021 01:47:12 - [error] : create Controller  Cast to Number failed for value "fc0947d3" (type string) at path "jobId" for model "User"[39m
+[31m25/09/2021 14:19:35 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-25T08:49:35.190Z"[39m
+[31m25/09/2021 14:19:44 - [error] : create Controller  userScheama is not defined[39m
+[31m25/09/2021 14:23:27 - [error] : create Controller  userObj is not defined[39m
+[31m25/09/2021 14:29:45 - [error] : create Controller  Unexpected token o in JSON at position 1[39m
+[31m25/09/2021 16:45:33 - [error] : create Controller  Cast to date failed for value "{ '$gte': '2021-09-26T01:54:59',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:46:27 - [error] : create Controller  Cast to date failed for value "{ '$gte': 'ISODate(\'2021-09-26T01:54:59\')',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:46:51 - [error] : create Controller  Cast to date failed for value "{ '$gte': 'ISODate(2021-09-26T01:54:59)',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:47:07 - [error] : create Controller  Cast to date failed for value "{ '$gte': '2021-09-26T01:54:59',[39m
+[31m  '$lte': 2021-10-28T21:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:48:01 - [error] : create Controller  Cast to date failed for value "{ '$gte': 2021-09-25T20:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:48:14 - [error] : create Controller  Cast to date failed for value "{ '$gte': 2021-09-25T20:24:59.000Z }" (type Object) at path "date" for model "User"[39m
+[31m25/09/2021 16:54:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 16:55:30 - [error] : create Controller  ISODate is not defined[39m
+[31m25/09/2021 16:55:49 - [error] : create Controller  Cast to date failed for value "ISODate(date)" (type string) at path "date" for model "User"[39m
+[31m25/09/2021 17:07:00 - [error] : User Validation Error Error: write EIO[39m
+[31m25/09/2021 17:24:58 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-25T11:54:58.584Z"[39m
+[31m25/09/2021 17:26:58 - [error] : create Controller  ISODate is not defined[39m
+[31m25/09/2021 17:28:50 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:29:42 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:29:52 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:29:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:30:10 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:30:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:31:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:33:34 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:33:46 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:33:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:36:08 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:36:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:36:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 17:43:10 - [error] : create Controller  Cannot read property 'job' of null[39m
+[31m25/09/2021 17:44:47 - [error] : create Controller  Cannot read property 'job' of null[39m
+[31m25/09/2021 20:17:46 - [error] : create Controller  Cannot read property 'job' of null[39m
+[31m25/09/2021 20:18:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminder [39m
+[31m25/09/2021 23:12:33 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:12:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:17:39 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m25/09/2021 23:17:40 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m26/09/2021 00:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m26/09/2021 00:15:34 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m26/09/2021 01:01:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 01:01:39 - [error] : Can not Connect Error: EIO: i/o error, write[39m
+[31m26/09/2021 13:11:38 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 16:04:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 16:06:44 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 17:05:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m26/09/2021 17:06:43 - [error] : User Validation Error ValidationError: "prevDate" is not allowed[39m
+[31m26/09/2021 17:22:38 - [error] : User Update Request Validation Error ValidationError: "prevDate" must be greater than "2021-09-26T11:52:38.434Z"[39m
+[31m27/09/2021 19:32:09 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 19:33:21 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 19:42:25 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 19:53:32 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 19:54:48 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 19:55:39 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 19:56:26 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-27T14:26:26.252Z"[39m
+[31m27/09/2021 19:56:42 - [error] : User Update Request Validation Error ValidationError: "date" must be greater than "2021-09-27T14:26:42.391Z"[39m
+[31m27/09/2021 20:05:57 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m27/09/2021 20:19:46 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m28/09/2021 14:15:27 - [error] : Error During AuthenticationTypeError: regSchema is not a constructor[39m
+[31m28/09/2021 14:15:47 - [error] : Error During AuthenticationTypeError: regSchema is not a constructor[39m
+[31m28/09/2021 14:16:41 - [error] : Error During AuthenticationTypeError: regSchema is not a constructor[39m
+[31m28/09/2021 14:17:06 - [error] : Error During AuthenticationReferenceError: logger is not defined[39m
+[31m28/09/2021 14:18:36 - [error] : Mailer  No recipients defined[39m
+[31m28/09/2021 14:18:36 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m28/09/2021 14:29:43 - [error] : Mailer  No recipients defined[39m
+[31m28/09/2021 14:29:43 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m29/09/2021 09:54:33 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m29/09/2021 09:54:33 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m29/09/2021 09:56:21 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m29/09/2021 09:56:21 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m29/09/2021 10:01:36 - [error] : Mailer  No recipients defined[39m
+[31m29/09/2021 10:01:36 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m29/09/2021 11:17:08 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[31m29/09/2021 11:19:29 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[31m29/09/2021 11:31:42 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[31m29/09/2021 11:32:23 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[31m29/09/2021 11:32:47 - [error] : Error During AuthenticationReferenceError: E11000 is not defined[39m
+[31m29/09/2021 11:33:07 - [error] : Error During AuthenticationMongoError: E11000 duplicate key error collection: EMAIL_REMINDER.auths index: email_1 dup key: { email: "dipikesh.singh.915@gmail.com" }[39m
+[31m29/09/2021 11:35:39 - [error] : Error During AuthenticationReferenceError: E11000 is not defined[39m
+[31m29/09/2021 11:35:49 - [error] : Error During AuthenticationBadRequestError: Email already exists[39m
+[31m29/09/2021 12:35:20 - [error] : Error During AuthenticationBadRequestError: Email already exists[39m
+[31m29/09/2021 22:18:23 - [error] : Registeration Validation Error TypeError: reg(...).validate is not a function[39m
+[31m29/09/2021 22:20:31 - [error] : Registeration Validation Error TypeError: reg(...).validate is not a function[39m
+[31m29/09/2021 22:20:55 - [error] : Registeration Validation Error TypeError: reg(...).validate is not a function[39m
+[31m29/09/2021 22:22:29 - [error] : Registeration Validation Error TypeError: reg(...).validateAsync is not a function[39m
+[31m29/09/2021 22:22:56 - [error] : Registeration Validation Error ValidationError: "email" length must be less than or equal to 20 characters long[39m
+[31m29/09/2021 22:23:28 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m29/09/2021 22:23:28 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m29/09/2021 22:29:54 - [error] : Confirm Registeration  Validation Error TypeError: joi.ref(...).required is not a function[39m
+[31m29/09/2021 22:33:13 - [error] : Confirm Registeration  Validation Error TypeError: joi.ref(...).required is not a function[39m
+[31m29/09/2021 22:33:46 - [error] : Confirm Registeration  Validation Error Error: Item cannot come after itself: email[39m
+[31m29/09/2021 22:34:39 - [error] : Confirm Registeration  Validation Error TypeError: Cannot read property 'validate' of undefined[39m
+[31m29/09/2021 22:35:39 - [error] : Confirm Registeration  Validation Error TypeError: Cannot read property 'validateAsync' of undefined[39m
+[31m29/09/2021 22:36:16 - [error] : Confirm Registeration  Validation Error ValidationError: "password" with value "Dipikesh@123" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/[39m
+[31m29/09/2021 22:38:13 - [error] : Confirm Registeration  Validation Error ValidationError: "password" with value "Dipikesh@123" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/[39m
+[31m29/09/2021 22:38:48 - [error] : Error in OTP controller  TypeError: authService.verifyOtp is not a function[39m
+[31m29/09/2021 22:39:24 - [error] : Error in OTP controller  ReferenceError: findOne is not defined[39m
+[31m29/09/2021 22:40:16 - [error] : Error in OTP controller  NotFoundError: Email Verification failed[39m
+[31m29/09/2021 22:43:03 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m29/09/2021 22:45:21 - [error] : Error During AuthenticationBadRequestError: Email already exists[39m
+[31m29/09/2021 22:56:27 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m29/09/2021 22:57:12 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m29/09/2021 22:57:52 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m29/09/2021 22:59:03 - [error] : Error in OTP controller  ReferenceError: otp is not defined[39m
+[31m29/09/2021 23:00:09 - [error] : Error in OTP controller  ReferenceError: updateOne is not defined[39m
+[31m29/09/2021 23:01:15 - [error] : Error in OTP controller  ReferenceError: n is not defined[39m
+[31m29/09/2021 23:02:41 - [error] : Error in OTP controller  NotFoundError: Email Not Found[39m
+[31m30/09/2021 00:36:40 - [error] : Error in OTP controller  NotFoundError: Email Not Found[39m
+[31m30/09/2021 00:40:45 - [error] : Error in OTP controller  NotFoundError: Email is already verified[39m
+[31m30/09/2021 00:43:09 - [error] : Error in OTP controller  NotFoundError: Email Id is not Registered[39m
+[31m30/09/2021 00:43:22 - [error] : Error in OTP controller  NotFoundError: Email Id is not Registered[39m
+[31m30/09/2021 00:53:29 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[31m30/09/2021 00:54:46 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[31m30/09/2021 00:55:07 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[31m30/09/2021 00:55:37 - [error] : Error in OTP controller  NotFoundError: Email is already registered and verified[39m
+[31m30/09/2021 00:57:33 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m30/09/2021 00:58:24 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 00:58:24 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m30/09/2021 01:04:03 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 01:04:03 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m30/09/2021 01:04:05 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 01:04:05 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m30/09/2021 01:04:07 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m30/09/2021 01:04:07 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m30/09/2021 01:08:30 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m30/09/2021 01:34:36 - [error] : Error in OTP controller  TypeError: this.isModified is not a function[39m
+[31m30/09/2021 01:35:55 - [error] : Error in OTP controller  Error: data and salt arguments required[39m
+[31m30/09/2021 10:19:31 - [error] : Error During AuthenticationReferenceError: crypto is not defined[39m
+[31m30/09/2021 10:21:39 - [error] : Error During AuthenticationReferenceError: crypto is not defined[39m
+[31m30/09/2021 10:22:05 - [error] : Error During AuthenticationTypeError [ERR_INVALID_ARG_TYPE]: The "password" argument must be one of type string, Buffer, TypedArray, or DataView. Received type undefined[39m
+[31m30/09/2021 10:41:10 - [error] : Error in OTP controller  NotFoundError: Email Id is not Registered or already verified[39m
+[31m30/09/2021 12:36:50 - [error] : Login  Validation Error TypeError: login.validateAsync is not a function[39m
+[31m30/09/2021 12:37:28 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[31m30/09/2021 12:39:33 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[31m30/09/2021 12:41:03 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[31m30/09/2021 12:42:13 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[31m30/09/2021 12:44:42 - [error] : Login  Validation Error ValidationError: "email" is required. "password" is required[39m
+[31m30/09/2021 12:45:04 - [error] : Programatic Error, Shutting down due to TypeError [ERR_INVALID_ARG_TYPE]: The "salt" argument must be one of type string, Buffer, TypedArray, or DataView. Received type undefined[39m
+[31m    at validateArrayBufferView (internal/crypto/util.js:88:11)[39m
+[31m    at check (internal/crypto/pbkdf2.js:61:10)[39m
+[31m    at Object.pbkdf2Sync (internal/crypto/pbkdf2.js:45:5)[39m
+[31m    at Object.validatePassword (/home/ubuntu/Desktop/web/Reminder/src/utils/hash.js:4:33)[39m
+[31m    at Object.exports.login (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:28:18)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m30/09/2021 12:46:35 - [error] : Programatic Error, Shutting down due to TypeError: token.signAccessToken is not a function[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:22:41)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m30/09/2021 12:47:16 - [error] : Programatic Error, Shutting down due to ReferenceError: accessToken is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:29:31)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m30/09/2021 12:47:36 - [error] : Programatic Error, Shutting down due to ReferenceError: refreshToken is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:29:43)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m30/09/2021 12:59:25 - [error] : Programatic Error, Shutting down due to ReferenceError: createError is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:25:13)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m30/09/2021 18:31:48 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.setTimeout (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at ontimeout (timers.js:436:11)[39m
+[31m    at tryOnTimeout (timers.js:300:5)[39m
+[31m    at listOnTimeout (timers.js:263:5)[39m
+[31m    at Timer.processTimers (timers.js:223:10)[39m
+[31m30/09/2021 19:18:32 - [error] : Programatic Error, Shutting down due to ReferenceError: err is not defined[39m
+[31m    at Promise (/home/ubuntu/Desktop/web/Reminder/src/config/token.js:33:5)[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at Object.exports.signAccessToken (/home/ubuntu/Desktop/web/Reminder/src/config/token.js:15:10)[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:23:41)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m30/09/2021 22:06:29 - [error] : error:0909006C:PEM routines:get_name:no start line[39m
+[31m30/09/2021 22:07:01 - [error] : error:0909006C:PEM routines:get_name:no start line[39m
+[31m30/09/2021 22:51:42 - [error] : Programatic Error, Shutting down due to TypeError: Cannot read property 'split' of undefined[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:61:70)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at urlencodedParser (/home/ubuntu/Desktop/web/Reminder/node_modules/body-parser/lib/types/urlencoded.js:82:7)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m30/09/2021 23:27:15 - [error] : Programatic Error, Shutting down due to TypeError: Cannot read property 'split' of undefined[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:63:50)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at urlencodedParser (/home/ubuntu/Desktop/web/Reminder/node_modules/body-parser/lib/types/urlencoded.js:82:7)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m30/09/2021 23:27:44 - [error] : Programatic Error, Shutting down due to ReferenceError: error is not defined[39m
+[31m    at jwt.verify (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:66:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:223:12[39m
+[31m    at getSecret (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:90:14)[39m
+[31m    at Object.module.exports [as verify] (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:94:10)[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:65:13)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m30/09/2021 23:28:09 - [error] : Programatic Error, Shutting down due to TypeError: Cannot set property 'authenticate' of undefined[39m
+[31m    at jwt.verify (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:68:35)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:223:12[39m
+[31m    at getSecret (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:90:14)[39m
+[31m    at Object.module.exports [as verify] (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:94:10)[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:65:13)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m30/09/2021 23:29:45 - [error] : Programatic Error, Shutting down due to TypeError: Cannot set property 'authenticate' of undefined[39m
+[31m    at jwt.verify (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:68:37)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:223:12[39m
+[31m    at getSecret (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:90:14)[39m
+[31m    at Object.module.exports [as verify] (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:94:10)[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:65:13)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m30/09/2021 23:30:08 - [error] : Programatic Error, Shutting down due to TypeError: Cannot set property 'authenticate' of undefined[39m
+[31m    at jwt.verify (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:68:37)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:223:12[39m
+[31m    at getSecret (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:90:14)[39m
+[31m    at Object.module.exports [as verify] (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:94:10)[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:65:13)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m30/09/2021 23:30:27 - [error] : Programatic Error, Shutting down due to TypeError: Cannot set property 'authenticated' of undefined[39m
+[31m    at jwt.verify (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:68:38)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:223:12[39m
+[31m    at getSecret (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:90:14)[39m
+[31m    at Object.module.exports [as verify] (/home/ubuntu/Desktop/web/Reminder/node_modules/jsonwebtoken/verify.js:94:10)[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:65:13)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/ubuntu/Desktop/web/Reminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m30/09/2021 23:51:00 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-09-30T18:21:00.596Z"[39m
+[31m30/09/2021 23:53:45 - [error] : Error in Profile controller  ReferenceError: ObjectId is not defined[39m
+[31m30/09/2021 23:54:34 - [error] : Error in Profile controller  CastError: Cast to ObjectId failed for value "ObjectId($id)" (type string) at path "_id" for model "User"[39m
+[31m30/09/2021 23:57:37 - [error] : Error in Profile controller  ReferenceError: ObjectId is not defined[39m
+[31m01/10/2021 00:12:51 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m01/10/2021 00:18:58 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 12:32:26 - [error] : Confirm Registeration  Validation Error ValidationError: "name" is required[39m
+[31m01/10/2021 12:34:35 - [error] : Error During AuthenticationMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m01/10/2021 12:37:47 - [error] : Error During AuthenticationMongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m01/10/2021 12:46:05 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m01/10/2021 13:13:35 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m01/10/2021 13:14:32 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.setTimeout (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at ontimeout (timers.js:436:11)[39m
+[31m    at tryOnTimeout (timers.js:300:5)[39m
+[31m    at listOnTimeout (timers.js:263:5)[39m
+[31m    at Timer.processTimers (timers.js:223:10)[39m
+[31m01/10/2021 13:17:44 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-10-01T07:47:44.340Z"[39m
+[31m01/10/2021 13:19:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:20:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:39:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:39:33 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 13:44:50 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:18:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:20:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:20:46 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:20:47 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:32:14 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:20 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:20 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 14:36:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 15:30:37 - [error] : Authentication Token Error TokenExpiredError: jwt expired[39m
+[31m01/10/2021 15:30:37 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m01/10/2021 15:31:34 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 15:31:43 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m01/10/2021 15:32:32 - [error] : Authentication Token Error TokenExpiredError: jwt expired[39m
+[31m01/10/2021 15:32:32 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m01/10/2021 15:34:15 - [error] : Authentication Token Error TokenExpiredError: jwt expired[39m
+[31m01/10/2021 15:34:15 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m01/10/2021 15:51:17 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:08:57 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:10:12 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:13:17 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:13:37 - [error] : Authentication Error TypeError: decodeToken.parseJwt is not a function[39m
+[31m01/10/2021 17:14:55 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:15:31 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:16:07 - [error] : Authentication Error ReferenceError: JOSN is not defined[39m
+[31m01/10/2021 17:16:23 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:32:40 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:39:54 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:40:48 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:42:11 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:43:35 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 17:43:54 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:51:12 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:52:01 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:55:08 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:56:36 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 18:59:33 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:06:08 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:08:42 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:09:23 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:09:24 - [error] : UnhandledRejectionMongoError: Unknown modifier: $addToset. Expected a valid update modifier or pipeline-style update specified as an array[39m
+[31m    at Function.create (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/error.js:57:12)[39m
+[31m    at toError (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/utils.js:130:22)[39m
+[31m    at coll.s.topology.update (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/operations/common_functions.js:384:39)[39m
+[31m    at handler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/topology.js:953:24)[39m
+[31m    at fn (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection_pool.js:350:13)[39m
+[31m    at handleOperationResult (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/server.js:565:5)[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:281:5)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)reason[object Promise][39m
+[31m01/10/2021 19:10:24 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:10:24 - [error] : UnhandledRejectionMongoError: Unknown modifier: $addToset. Expected a valid update modifier or pipeline-style update specified as an array[39m
+[31m    at Function.create (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/error.js:57:12)[39m
+[31m    at toError (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/utils.js:130:22)[39m
+[31m    at coll.s.topology.update (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/operations/common_functions.js:384:39)[39m
+[31m    at handler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/topology.js:953:24)[39m
+[31m    at fn (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection_pool.js:350:13)[39m
+[31m    at handleOperationResult (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/core/sdam/server.js:565:5)[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:281:5)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)reason[object Promise][39m
+[31m01/10/2021 19:10:51 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:13:26 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:13:26 - [error] : UnhandledRejectionBadRequestError: Something went wrong[39m
+[31m    at Object.exports.saveTokenExp (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:76:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m01/10/2021 19:17:01 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwODI1MjcsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA4MjQ2NzEzMSwiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ib3zMpKMVp4Ccs3ctEbjJ8fwy0ElvYmioeQ6M-cOrKbqufv988CGucROTuan5KAbEVphRV4IZ9qRcaA4apOSQsVrWOX1qXi2UPVrqnBKNgdXRmD-KNd170ExBtqeqs-mazzj5M9MMprEnIYGVyeGvNLcolxNfjWo5szHbtrvUzMyq8yiGPOXGhaNMzSWP0VyD37iDBiAZ4sZgcgnmDxqErMS5LQhOcYHzuw9wttrX-4mqEld8fgRk_2GxY5JyGYtsH7oxJ7JJFYAocKszMVbUwLY87gQwiCYOwQMXH1Bm26_C0EadVNwVp9CZDuSeqIjLEFTWIO-_7r7qFD5YWVdRdM9NO19yYoqLUId_UJATByjogOAKOICHIC_YIcYo5Atwd8wHPfVO2Y0JCv2fZSYUzA-7vIizCOBQfSHDBW31ukwRaBrUNmOVw2dmBh56uO32flXwfKei4xrDKBStkc67GscoRN_peqe0xdurOcouD51eabe-cp7xIxujF9_0cXjAJu1tmPuufT6BNuAwPIEim0mhrhoJsa_Ug-msEjWEeRPbVdH67BNrlvE61t0lLC12EfRkgsccZV-IB-h86b5TWEzpj_WGIJZ7bUUGvu27gHcecJa9NUkH5_zsXt4VYcc68Yz9qoUMPPFQ80BumCWUtCZ4-YMOBJ7N1M4l27CY3A[39m
+[31m01/10/2021 19:17:01 - [error] : Auth Service ....BadRequestError: Something went wrong[39m
+[31m01/10/2021 19:19:48 - [error] : Authentication Error TypeError: Cannot read property 'name' of null[39m
+[31m01/10/2021 19:21:35 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMwOTYxOTAsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzA5NjEzMDgzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ZELy6CEsuUNmHuYrEvW_zFVQCjBzevAbuybJtXNuNGytiei3RjdZrtH-2GxlUVNeFhjppx0TMc2eizxygRa6vKWpoCHH4P5lbLml0EcKR45eKfiVKi2P0d8msjnf3Ww2w2OcMVljpu-zFv_YvrD-AzwRTZdmmLB9VtS1dpYXWFjmnEtNE2CXUWLytMcSRsZ6ZmfLuxE9TYjSjTHTgmL68rJTtEyBPo63eXkYttB4Y3pQD8janZr59Mzt8l9EPRaltMsspsVgyXdx09q2Z0MLzowznGMZ-Gycx2kMBTC7fhcpqkrD87DJ-D3jJbNy3DekwkNq0L03Tl7EewAbS5A9N_gSugE4Hqxw4x5elY945GQSYrFRUDd4ggBfenfENeP9ba_DtHiW-1cNwuTIshkwrrPUixoUQ7_3GNE8ic5quqeA2Ui5JCJ223T9bER0Qp6sBUbRPa8EK0KYvBiCqoDAMW__cRd0hXnJBvJ-D4vsRxGr8jjlOwQuTueWyUZmhJv00DKu84HfBva677T1upNBfBWQe1J12mAiEKXvFKpaTnhromCqBkXpWpmLnI5FUiDNXT9TMp_mEyhhQ9UUUE17ctnW5t83i6wTQstOWl-pazlPNmVC1pLx1yDZGsoWJixfELCuDz3bwb6J1GHoyUNCLnuDC4XSBxCVom_sz38Pa00[39m
+[31m01/10/2021 22:07:57 - [error] : Programatic Error, Shutting down due to ReferenceError: accessToken is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:26:37)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m01/10/2021 22:11:28 - [error] : Programatic Error, Shutting down due to ReferenceError: token is not defined[39m
+[31m    at exports.login (/home/ubuntu/Desktop/web/Reminder/src/controller/auth.controller.js:23:42)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m01/10/2021 22:12:10 - [error] : Auth Service ....MongoError: Cannot create field 't' in element {exp: [ "1633082527", "1633096190" ]}[39m
+[31m01/10/2021 23:09:32 - [error] : Auth Service ....MongoError: Cannot create field 't' in element {exp: [ "1633082527", "1633096190" ]}[39m
+[31m01/10/2021 23:15:54 - [error] : Auth Service ....BadRequestError: Something went wrong[39m
+[31m01/10/2021 23:17:44 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:19:23 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:22:11 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:23:55 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:28:19 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:28:46 - [error] : Auth Service ....MongoError: Cannot apply $addToSet to non-array field. Field named 'exp' has non-array type object[39m
+[31m01/10/2021 23:29:23 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:30:00 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:30:26 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:31:46 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m01/10/2021 23:32:12 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m02/10/2021 00:32:59 - [error] : Auth Service ....MongoError: The field 'exp' must be an array but is of type object in document {_id: ObjectId('615546ab4fb2be6150852449')}[39m
+[31m02/10/2021 00:36:37 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:36:53 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:37:00 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:37:54 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 00:37:54 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 00:47:56 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:48:43 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:48:53 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:49:31 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 00:49:31 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 01:05:46 - [error] : Authentication Token Error eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzMxMTUzMDYsInN1YiI6IjYxNTU0NmFiNGZiMmJlNjE1MDg1MjQ0OSIsImlhdCI6MTYzMzExNTI0NjEzMywiaXNzIjoiZW1haWxSZW1pbmRlci5jb20iLCJ0eXBlIjoiYXQifQ.ybj8UNFOAKywUzEYUvUia2Zx1bHYbVJZZ6cR7wfCCjffHeZOEQYVGGbDB2NED6nfQyRrRD_FqzNaMVpV5Xs6-_IdXb_Z7ETmQqPVOejMxJ9azR5M4wxG2bc0q-w9-armY9MsL1P-5s7HyEJMg20fbKQmO89wU4SyMA-vj3dU3oQEGt-Peuz76dMfYGvuQD2uYKzJPm2IoBGHwM4V2Aey9tKZdD-hoKRbYLdOkjubBpiA4pxISKJaUslWu0vB_FDtKneg43ECPbOsZszBDGy4DeXjrJYdxbPFKNMe0LPRLdy4BFiaJA06Mf6uw_FTc7CcXfv7Qna_x_oU4AHjgNPeSTKD6aLWhSdmysGTTQw0WxR5VLHi8budv09WTtzhv1aCoXAnEbJkONDsYWYT8yGWj5SbuL-Nhr_ziupu2V2MbxJSDSGorFeep4o9RRp7jc6S4Jr7dv2fUNQzaSFzYHytbZ2PJprCQiKhdNJt_xH-lmNvLcJQ3uog709bK889iUoOheWP6GFiHrHmxPzpiIrytBRqcv6PctwSxbQ8EGezfPADvnYdHw_fTzHPpm7rNjqGHsXR6a7i-iHTyH7rmLwTS7xS6KVNe81gPeOfNzAvKGMw-ZBMrnZ96IN3sAXPv7eIljv2hYwWxkd9PvTx0SXFAI77Ee1xzSdQouVXo77AtOM[39m
+[31m02/10/2021 01:05:46 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m02/10/2021 01:11:53 - [error] : Authentication Token Error  jwt expired[39m
+[31m02/10/2021 01:11:53 - [error] : UnhandledRejectionBadRequestError: Something went wrong[39m
+[31m    at Object.exports.updateTokenExpiry (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:97:19)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 01:12:09 - [error] : Authentication Token Error  jwt expired[39m
+[31m02/10/2021 01:12:09 - [error] : UnhandledRejectionBadRequestError: Something went wrong[39m
+[31m    at Object.exports.updateTokenExpiry (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:97:19)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 01:22:17 - [error] : Authentication Error ReferenceError: PUB_KEY is not defined[39m
+[31m02/10/2021 01:23:36 - [error] : Authentication Error ReferenceError: prevPayload is not defined[39m
+[31m02/10/2021 01:26:55 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:30:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:31:31 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:34:12 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:35:21 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:35:26 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:37:40 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:40:00 - [error] : Authentication Error ReferenceError: payload is not defined[39m
+[31m02/10/2021 01:42:42 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 01:44:11 - [error] : Authentication Error ReferenceError: payload is not defined[39m
+[31m02/10/2021 01:47:45 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:57 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:57 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:58 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:47:59 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:00 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:01 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:02 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:04 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:06 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:07 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:07 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 01:48:36 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 02:42:04 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 02:43:27 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 02:50:04 - [error] : Authentication Error ReferenceError: jwt is not defined[39m
+[31m02/10/2021 02:50:04 - [error] : Programatic Error, Shutting down due to ReferenceError: jwt is not defined[39m
+[31m    at exports.authenticate (/home/ubuntu/Desktop/web/Reminder/src/middleware/auth.middleware.js:69:45)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 02:51:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:52:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:53:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:55:19 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 02:56:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:02:07 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:03:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:06:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:07:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:08:26 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 03:19:56 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 14:00:51 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m02/10/2021 14:01:04 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m02/10/2021 14:03:50 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 14:04:48 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 14:05:02 - [error] : Authentication Error MongoError: The field 'exp.t.0' must be an array but is of type string in document {_id: ObjectId('615818ddb3eb9e2e56e7ef11')}[39m
+[31m02/10/2021 14:05:55 - [error] : Authentication Error MongoError: The field 'exp.t.0' must be an array but is of type string in document {_id: ObjectId('615818ddb3eb9e2e56e7ef11')}[39m
+[31m02/10/2021 14:09:12 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 14:11:44 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 14:37:05 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m02/10/2021 14:40:19 - [error] : Error in OTP controller  BadRequestError: Email is already registered and verified[39m
+[31m02/10/2021 15:16:35 - [error] : Error During AuthenticationNotFoundError: Email Id already exists[39m
+[31m02/10/2021 15:16:40 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:16:40 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:26:08 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:26:08 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:28:01 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:28:01 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:35:47 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:35:47 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:36:19 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:36:51 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:37:04 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:37:13 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m02/10/2021 15:37:13 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m02/10/2021 15:37:41 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 15:57:04 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 15:58:41 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 16:00:42 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 16:02:42 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" must be a string[39m
+[31m02/10/2021 16:04:35 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" is required[39m
+[31m02/10/2021 16:07:23 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 16:10:15 - [error] : Error in OTP controller  ReferenceError: eTme is not defined[39m
+[31m02/10/2021 16:21:02 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 16:36:33 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/10/2021 17:01:16 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 17:02:16 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 17:37:57 - [error] : Error During AuthenticationReferenceError: etime is not defined[39m
+[31m02/10/2021 17:38:32 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:34 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:35 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:36 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:50 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:51 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:51 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:52 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:53 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:38:53 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:40:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:41:41 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:42:13 - [error] : Error During AuthenticationTypeError: Cannot read property 'isVerified' of null[39m
+[31m02/10/2021 17:43:42 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:43 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:44 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:45 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:46 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:43:47 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:06 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:11 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:11 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:11 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:12 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:14 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:14 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:15 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:15 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:44:16 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:13 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:14 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:26 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:45:31 - [error] : Error During AuthenticationBadRequestError: Email is being sent[39m
+[31m02/10/2021 17:51:03 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 18:05:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 18:22:44 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m02/10/2021 18:26:35 - [error] : create Controller  Cannot read property 'payload' of undefined[39m
+[31m02/10/2021 18:26:55 - [error] : UnhandledRejectionNotFoundError: Email not found[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:113:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 18:27:12 - [error] : UnhandledRejectionNotFoundError: Email not found[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:113:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 18:28:09 - [error] : UnhandledRejectionNotFoundError: Email not found[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:115:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 18:28:34 - [error] : create Controller  Email not found[39m
+[31m02/10/2021 18:31:03 - [error] : create Controller  Email not found[39m
+[31m02/10/2021 18:32:57 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 18:33:20 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 19:08:27 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m02/10/2021 19:49:45 - [error] : Error in Profile controller  TypeError: Cannot read property 'payload' of undefined[39m
+[31m02/10/2021 19:50:03 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 19:55:08 - [error] : Error in Profile controller  ReferenceError: user is not defined[39m
+[31m02/10/2021 19:55:08 - [error] : Programatic Error, Shutting down due to ReferenceError: user is not defined[39m
+[31m    at Object.exports.fetchInfo (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:100:46)[39m
+[31m    at exports.profile (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:49:45)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:55:24 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:55:24 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:56:07 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:56:07 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:56:19 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:56:19 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 19:58:04 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 19:58:04 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:00:42 - [error] : User Validation Error ValidationError: "email" is required. "name" is not allowed[39m
+[31m02/10/2021 20:02:13 - [error] : Error in Profile controller  CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 20:02:13 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:08:29 - [error] : create Controller  Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 20:08:29 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586b8da2de8dfd7807db49,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:11:01 - [error] : create Controller  Cast to string failed for value "{ _id: 61586f53a2de8dfd7807dc00,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m02/10/2021 20:11:01 - [error] : Programatic Error, Shutting down due to CastError: Cast to string failed for value "{ _id: 61586f53a2de8dfd7807dc00,[39m
+[31m  email: 'dipikesh.singh.91@gmail.com' }" (type Object) at path "email" for model "User"[39m
+[31m    at model.Query.exec (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4498:21)[39m
+[31m    at model.Query.Query.then (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/query.js:4592:15)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:11:55 - [error] : create Controller  email is not defined[39m
+[31m02/10/2021 20:11:55 - [error] : Programatic Error, Shutting down due to ReferenceError: email is not defined[39m
+[31m    at Object.exports.fetchEmail (/home/ubuntu/Desktop/web/Reminder/src/services/auth.services.js:149:35)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)[39m
+[31m02/10/2021 20:12:58 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 20:13:11 - [error] : UnhandledRejectionReferenceError: email is not defined[39m
+[31m    at Object.exports.getJobId (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:53:44)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:34:37)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 20:13:29 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:27:12)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 20:49:41 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:27:12)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 20:51:19 - [error] : RescheduleJob Error Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m02/10/2021 20:51:41 - [error] : RescheduleJob Error Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m02/10/2021 21:24:32 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m02/10/2021 21:24:43 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 21:31:49 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 21:32:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 21:32:25 - [error] : User Update Request Validation Error ValidationError: "prevDate" is required. "id" is not allowed[39m
+[31m02/10/2021 21:33:07 - [error] : User Update Request Validation Error ValidationError: "id" is not allowed[39m
+[31m02/10/2021 21:34:05 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:29:20)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:35:09 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:29:20)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:35:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:36:50 - [error] : UnhandledRejectionError: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m    at Object.rescheduleJob (/home/ubuntu/Desktop/web/Reminder/node_modules/node-schedule/lib/schedule.js:57:13)[39m
+[31m    at Object.exports.reschedulingJob (/home/ubuntu/Desktop/web/Reminder/src/services/job.services.js:29:20)[39m
+[31m    at exports.update (/home/ubuntu/Desktop/web/Reminder/src/controller/reminder.controller.js:37:44)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:37:00 - [error] : UnhandledRejectionInternalServerError: Something went wrong[39m
+[31m    at Object.exports.updateDate (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:76:9)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 21:38:24 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m02/10/2021 21:42:18 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m02/10/2021 21:58:48 - [error] : UnhandledRejectionMongoError: As of 4.4, it's illegal to specify positional operator in the middle of a path.Positional projection may only be used at the end, for example: a.b.$. If the query previously used a form like a.b.$.d, remove the parts following the '$' and the results will be equivalent.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 22:51:19 - [error] : create Controller  Email not found[39m
+[31m02/10/2021 22:52:00 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 22:52:35 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 22:54:45 - [error] : UnhandledRejectionTypeError: Cannot read property '0' of undefined[39m
+[31m    at Object.exports.scheduleStatusAndDelete (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:126:20)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 22:59:35 - [error] : UnhandledRejectionTypeError: Cannot read property '0' of undefined[39m
+[31m    at Object.exports.scheduleStatusAndDelete (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:126:20)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 23:12:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:12:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:12:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:12:40 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:13:19 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m02/10/2021 23:14:29 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:16:42 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:17:15 - [error] : UnhandledRejectionBadRequestError: Schedule can not be deleted[39m
+[31m    at Object.exports.removeScheduledJob (/home/ubuntu/Desktop/web/Reminder/src/services/user.services.js:126:11)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:68:7)reason[object Promise][39m
+[31m02/10/2021 23:26:07 - [error] : UnhandledRejectionMongoError: As of 4.4, it's illegal to specify positional operator in the middle of a path.Positional projection may only be used at the end, for example: a.b.$. If the query previously used a form like a.b.$.d, remove the parts following the '$' and the results will be equivalent.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:26:45 - [error] : UnhandledRejectionMongoError: Cannot specify more than one positional projection per query.[39m
+[31m    at MessageStream.messageHandler (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/connection.js:272:20)[39m
+[31m    at MessageStream.emit (events.js:198:13)[39m
+[31m    at processIncomingData (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:144:12)[39m
+[31m    at MessageStream._write (/home/ubuntu/Desktop/web/Reminder/node_modules/mongodb/lib/cmap/message_stream.js:42:5)[39m
+[31m    at doWrite (_stream_writable.js:415:12)[39m
+[31m    at writeOrBuffer (_stream_writable.js:399:5)[39m
+[31m    at MessageStream.Writable.write (_stream_writable.js:299:11)[39m
+[31m    at Socket.ondata (_stream_readable.js:710:20)[39m
+[31m    at Socket.emit (events.js:198:13)[39m
+[31m    at addChunk (_stream_readable.js:288:12)[39m
+[31m    at readableAddChunk (_stream_readable.js:269:11)[39m
+[31m    at Socket.Readable.push (_stream_readable.js:224:10)[39m
+[31m    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)reason[object Promise][39m
+[31m02/10/2021 23:28:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:28:23 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:37:18 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:39:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:42:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:43:37 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:43:54 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:53:43 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:53:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:16 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:27 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:31 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:36 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:54:41 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:55:52 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:56:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m02/10/2021 23:56:21 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:03:09 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:03:37 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:03:48 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:15:44 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:16:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m03/10/2021 00:17:25 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  Error: Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:20:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:20:48 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:20:48 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:22:04 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m03/10/2021 00:24:18 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Something went wrong[39m
+[31m03/10/2021 00:24:52 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:24:52 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:28:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:29:03 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:31:28 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/10/2021 00:36:50 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:36:50 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:37:50 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:37:50 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m03/10/2021 00:40:52 - [error] : Error during rescheduling  Cannot reschedule one-off job by name, pass job reference instead[39m
+[31m03/10/2021 00:40:52 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  InternalServerError: Internal Server Error[39m
+[31m04/10/2021 01:18:56 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m04/10/2021 01:19:24 - [error] : create Controller  Email not found[39m
+[31m04/10/2021 01:22:21 - [error] : Error During AuthenticationTypeError: authService.regster is not a function[39m
+[31m04/10/2021 23:36:50 - [error] : Mailer  request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo EAI_AGAIN oauth2.googleapis.com oauth2.googleapis.com:443[39m
+[31m04/10/2021 23:36:50 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m04/10/2021 23:38:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m04/10/2021 23:38:58 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m04/10/2021 23:39:29 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m07/10/2021 11:41:22 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 11:47:15 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 12:55:13 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:07:04 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:08:44 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:19:07 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:23:26 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 13:33:53 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 13:34:57 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 13:35:23 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 13:37:55 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 16:30:22 - [error] : Registeration Validation Error ValidationError: "password" is not allowed[39m
+[31m07/10/2021 16:31:23 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 16:45:12 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 17:07:00 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 17:09:43 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:12:47 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:21:42 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:23:38 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:24:20 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 18:25:10 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 20:10:27 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m07/10/2021 20:15:01 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 11:37:50 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 11:39:54 - [error] : Error During AuthenticationMongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m09/10/2021 12:44:56 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 12:46:24 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 12:48:06 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:11:26 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:12:56 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:15:22 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:18:08 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 16:20:14 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 22:35:07 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 22:36:29 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m09/10/2021 22:46:31 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.setTimeout (/home/ubuntu/Desktop/web/Reminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at ontimeout (timers.js:436:11)[39m
+[31m    at tryOnTimeout (timers.js:300:5)[39m
+[31m    at listOnTimeout (timers.js:263:5)[39m
+[31m    at Timer.processTimers (timers.js:223:10)[39m
+[31m10/10/2021 13:11:10 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m10/10/2021 13:14:33 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m10/10/2021 13:15:55 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 13:18:32 - [error] : Authentication Error BadRequestError: Something went wrong[39m
+[31m10/10/2021 13:21:39 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 13:26:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 13:27:05 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 13:37:26 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 13:50:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 13:52:15 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m10/10/2021 13:53:45 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m10/10/2021 13:55:22 - [error] : create Controller  authService.fetxchEmail is not a function[39m
+[31m10/10/2021 13:56:12 - [error] : create Controller  authService.fetschEmail is not a function[39m
+[31m10/10/2021 13:57:19 - [error] : create Controller  authService.fetschEmail is not a function[39m
+[31m10/10/2021 13:58:51 - [error] : create Controller  authService.fetxchEmail is not a function[39m
+[31m10/10/2021 14:02:25 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  BadRequestError: Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m10/10/2021 14:02:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:06:28 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:07:10 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:07:10 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd079" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:09:05 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  NotFoundError: Email not found[39m
+[31m10/10/2021 14:09:14 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 14:09:17 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 14:09:21 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m10/10/2021 14:10:16 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:10:16 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:10:32 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:10:32 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:21:16 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m10/10/2021 14:21:16 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m13/11/2021 11:23:37 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m15/11/2021 12:05:29 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m16/11/2021 11:35:44 - [error] : Can not Connect MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27027[39m
+[31m16/11/2021 11:57:33 - [error] : Can not Connect MongoError: bad auth : Authentication failed.[39m
+[31m16/11/2021 11:59:53 - [error] : Can not Connect MongoError: bad auth : Authentication failed.[39m
+[31m17/11/2021 09:37:31 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m17/11/2021 12:45:54 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfPassword" must be [ref:password][39m
+[31m17/11/2021 12:46:44 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfPassword" must be [ref:password][39m
+[31m17/11/2021 12:48:45 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfPassword" must be [ref:password][39m
+[31m17/11/2021 12:52:12 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m17/11/2021 12:53:01 - [error] : Error in OTP controller  BadRequestError: Email is already registered and verified[39m
+[31m17/11/2021 12:53:03 - [error] : Error in OTP controller  BadRequestError: Email is already registered and verified[39m
+[31m18/11/2021 10:44:48 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m18/11/2021 10:45:30 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m18/11/2021 10:45:57 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-11-18T05:15:57.667Z"[39m
+[31m18/11/2021 10:47:42 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:47:52 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:52:56 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:02 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:07 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:37 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:55:44 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:20 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:21 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:22 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:30 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:30 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:31 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:56:31 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:13 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:18 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:35 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:40 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:49 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:52 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:57:53 - [error] : Authentication Error UnauthorizedError: Authorizaion Required[39m
+[31m18/11/2021 10:59:09 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m18/11/2021 10:59:12 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m18/11/2021 11:00:13 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m18/11/2021 11:59:51 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m18/11/2021 12:00:05 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:00:24 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:00:28 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:00:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 12:01:09 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:38:30 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m18/11/2021 13:38:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:38:45 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:38:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:03 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:07 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:08 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:12 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:32 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:37 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:42 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:48 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:48 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:59 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:39:59 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:40:11 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:43:10 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:43:11 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:43:23 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:46:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:46:28 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:46:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:06 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:23 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:40 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:47:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:49:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:49:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:02 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:03 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:05 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:09 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:50:18 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m18/11/2021 13:56:10 - [error] : Login  Validation Error ValidationError: "password" is not allowed to be empty[39m
+[31m19/11/2021 10:43:51 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m19/11/2021 10:44:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:44:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:44:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:47:51 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m19/11/2021 10:48:45 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:49:29 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:49:36 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:59:52 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m19/11/2021 10:59:55 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:54:38 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:54:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:55:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:56:59 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:58:06 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:58:51 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m23/11/2021 12:59:46 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 12:59:47 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:59:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 12:59:55 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:00 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:01 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:04 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:08 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:09 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 13:00:35 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:00:39 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:01:56 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:01:59 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:13 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:20 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:23 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:33 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:35 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:36 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:38 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:38 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:41 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:51 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:02:58 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:03:08 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:03:12 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:03:14 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:18 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:51 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:04:51 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:05:08 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:05:16 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:05:50 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:12:07 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:13:22 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:20:17 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:20:45 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:22:18 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:23:31 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 13:24:28 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m23/11/2021 14:02:00 - [error] : Error in Profile controller  MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+[31m23/11/2021 14:44:10 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m23/11/2021 14:44:10 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:10 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:11 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:12 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:12 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:13 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:14 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:14 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:15 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:15 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:16 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:17 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:18 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:18 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:19 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:20 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:21 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:21 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:22 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:22 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:23 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:24 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:24 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:25 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:27 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:27 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:27 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:28 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:29 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:29 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:30 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:30 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:31 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:31 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:32 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:32 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:33 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:34 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:34 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:35 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:35 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:36 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:37 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:37 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:39 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:39 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:40 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:40 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:41 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:42 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:42 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:43 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:43 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:45 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:46 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:46 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:47 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:48 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:49 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:49 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:50 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:51 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:51 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:52 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:54 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:54 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m23/11/2021 14:44:54 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m25/11/2021 15:18:33 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
+[31m25/11/2021 15:18:56 - [error] : Authentication Error MongooseError: Operation `auths.updateOne()` buffering timed out after 10000ms[39m
+[31m25/11/2021 15:19:04 - [error] : Programatic Error, Shutting down due to MongooseError: Operation `auths.findOne()` buffering timed out after 10000ms[39m
+[31m    at Timeout.<anonymous> (/home/dipikesh/Desktop/web/EmailReminder/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)[39m
+[31m    at listOnTimeout (internal/timers.js:557:17)[39m
+[31m    at processTimers (internal/timers.js:500:7)[39m
+[31m25/11/2021 16:23:09 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m25/11/2021 16:23:25 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m25/11/2021 16:23:38 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m02/12/2021 11:37:30 - [error] : Programatic Error, Shutting down due to ReferenceError: path is not defined[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/src/routes/static.routes.js:6:18[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m02/12/2021 11:38:00 - [error] : Programatic Error, Shutting down due to ReferenceError: __dirName is not defined[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/src/routes/static.routes.js:7:28[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/dipikesh/Desktop/web/EmailReminder/node_modules/express/lib/router/index.js:174:3)[39m
+[31m03/12/2021 10:25:37 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:25:58 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:26:19 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:26:46 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:27:15 - [error] : Registeration Validation Error ValidationError: "email" is required[39m
+[31m03/12/2021 10:30:07 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m03/12/2021 13:54:02 - [error] : Confirm Registeration  Validation Error ValidationError: "password" length must be at least 8 characters long. "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:55:17 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:55:32 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:56:23 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:56:25 - [error] : Confirm Registeration  Validation Error ValidationError: "cnfrmPassword" is not allowed[39m
+[31m03/12/2021 13:58:54 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m03/12/2021 13:58:56 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m03/12/2021 16:35:47 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m03/12/2021 16:59:28 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m03/12/2021 20:05:06 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m03/12/2021 20:05:19 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:18:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:19:20 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:19:25 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:19:44 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m03/12/2021 20:20:43 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m04/12/2021 11:43:41 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 09:17:30 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 10:21:11 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 14:01:02 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 20:13:27 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 21:34:03 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m05/12/2021 21:35:42 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m05/12/2021 21:36:11 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m05/12/2021 21:42:53 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m05/12/2021 21:45:15 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:24:01 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m07/12/2021 09:24:24 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:28:14 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:30:02 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:30:29 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:32:39 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:36:30 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:43:07 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:49:25 - [error] : Authentication Error BadRequestError: Authorizaion Required[39m
+[31m07/12/2021 09:50:50 - [error] : User Validation Error ValidationError: "date" must be in ISO 8601 date format[39m
+[31m07/12/2021 09:56:11 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:00:01 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:30:00.982Z"[39m
+[31m07/12/2021 10:00:58 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:30:58.771Z"[39m
+[31m07/12/2021 10:01:56 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:02:46 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:02:59 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:32:59.926Z"[39m
+[31m07/12/2021 10:03:51 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:04:17 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 10:04:51 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-07T04:34:51.418Z"[39m
+[31m07/12/2021 11:01:20 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m07/12/2021 11:01:36 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:31:36.512Z"[39m
+[31m07/12/2021 11:01:53 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:31:53.942Z"[39m
+[31m07/12/2021 11:12:26 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:42:26.683Z"[39m
+[31m07/12/2021 11:12:49 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:42:49.377Z"[39m
+[31m07/12/2021 11:13:19 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:43:19.627Z"[39m
+[31m07/12/2021 11:18:50 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:48:50.404Z"[39m
+[31m07/12/2021 11:20:53 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:50:52.952Z"[39m
+[31m07/12/2021 11:23:49 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:53:49.302Z"[39m
+[31m07/12/2021 11:25:02 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:55:02.127Z"[39m
+[31m07/12/2021 11:25:09 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:55:09.722Z"[39m
+[31m07/12/2021 11:26:02 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:56:02.298Z"[39m
+[31m07/12/2021 11:27:59 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:57:59.244Z"[39m
+[31m07/12/2021 11:28:30 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:58:30.909Z"[39m
+[31m07/12/2021 11:29:00 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:59:00.629Z"[39m
+[31m07/12/2021 11:29:36 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T05:59:36.218Z"[39m
+[31m07/12/2021 11:29:57 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long[39m
+[31m07/12/2021 11:32:07 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:02:07.532Z"[39m
+[31m07/12/2021 11:32:51 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:02:51.792Z"[39m
+[31m07/12/2021 11:33:27 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:03:27.703Z"[39m
+[31m07/12/2021 11:33:49 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:03:49.885Z"[39m
+[31m07/12/2021 11:34:39 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:04:39.842Z"[39m
+[31m07/12/2021 11:35:05 - [error] : User Validation Error ValidationError: "description" length must be at least 3 characters long. "date" must be greater than "2021-12-07T06:05:05.315Z"[39m
+[31m07/12/2021 11:40:45 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:40:55 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:41:25 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:42:22 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:43:30 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:45:32 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 11:45:49 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m07/12/2021 12:45:58 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m07/12/2021 12:46:53 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m07/12/2021 14:11:16 - [error] : Can not Connect Error: querySrv ESERVFAIL _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
+[31m07/12/2021 14:19:52 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m08/12/2021 09:54:31 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m08/12/2021 10:00:21 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). c81sm1348546pfb.166 - gsmtp[39m
+[31m08/12/2021 10:01:39 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m08/12/2021 10:02:26 - [error] : Authentication Error UnauthorizedError: UnAuthorize[39m
+[31m08/12/2021 10:03:06 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[31m08/12/2021 10:03:34 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[31m08/12/2021 10:05:13 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). o9sm1014356pgu.12 - gsmtp[39m
+[31m08/12/2021 10:06:03 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:36:03.942Z"[39m
+[31m08/12/2021 10:06:53 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:36:53.350Z"[39m
+[31m08/12/2021 10:07:46 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). f19sm1409966pfv.76 - gsmtp[39m
+[31m08/12/2021 10:09:39 - [error] : Mailer  Data command failed: 421 4.3.0 Temporary System Problem.  Try again later (10). w142sm1428706pfc.115 - gsmtp[39m
+[31m08/12/2021 10:09:39 - [error] : Error During AuthenticationInternalServerError: Internal Server Error[39m
+[31m08/12/2021 10:23:11 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m08/12/2021 10:24:01 - [error] : REMINDER --- UPDATE CONTROLLER ERROR  CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m08/12/2021 10:24:01 - [error] : CastError Update controller ..CastError: Cast to ObjectId failed for value "616298c2d891834adebd07wedfsd9" (type string) at path "_id" for model "User"[39m
+[31m08/12/2021 10:25:45 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-08T04:55:45.724Z"[39m
+[31m08/12/2021 10:25:53 - [error] : create Controller  Please Set Reminder atleast after or before 5 minutes of previous reminders+ [39m
+[31m08/12/2021 10:34:51 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m08/12/2021 10:35:12 - [error] : Error in Profile controller  NotFoundError: User not found[39m
+[31m09/12/2021 17:31:37 - [error] : Registeration Validation Error ValidationError: "email" must be a valid email[39m
+[31m09/12/2021 17:33:25 - [error] : Confirm Registeration  Validation Error ValidationError: "password" length must be at least 8 characters long[39m
+[31m09/12/2021 17:33:55 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
+[31m09/12/2021 17:34:10 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m09/12/2021 17:34:33 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m11/12/2021 12:53:22 - [error] : Error in Profile controller  NotFoundError: Email not found[39m
+[31m11/12/2021 16:31:40 - [error] : User Validation Error ValidationError: "date" must be greater than "2021-12-11T11:01:40.054Z"[39m
+[31m11/12/2021 16:32:41 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[31m11/12/2021 16:33:11 - [error] : REMINDER CTRL -- REMOVE ERROR BadRequestError: Schedule can not be deleted[39m
+[31m27/12/2021 22:29:32 - [error] : Error During AuthenticationBadRequestError: Email is being sent...Try again after 20 sec[39m
+[31m27/12/2021 23:06:01 - [error] : Registeration Validation Error ValidationError: "email" must be a valid email[39m
+[31m27/12/2021 23:24:18 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" is not allowed to be empty[39m
+[31m27/12/2021 23:26:55 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" is not allowed to be empty[39m
+[31m27/12/2021 23:30:10 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" is not allowed to be empty[39m
+[31m27/12/2021 23:33:22 - [error] : Confirm Registeration  Validation Error ValidationError: "otp" is not allowed to be empty[39m
+[31m28/12/2021 00:02:29 - [error] : Error in OTP controller  BadRequestError: OTP Expired [39m
+[31m02/06/2022 13:55:46 - [error] : Can not Connect Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.9kr03.mongodb.net[39m
+[31m02/06/2022 14:00:32 - [error] : Error in OTP controller  NotFoundError: OTP does not match , try again[39m
